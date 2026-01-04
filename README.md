@@ -3,7 +3,7 @@
 
 Ceci est un projet dans le cadre d'un cours en humanités numériques. 
 
-Je me suis intéressée aux fêtes organisées par Antoine d'Abbadie, érudit basque, entre le milieu du XIXe et le début du XXe siècle. Ces fêtes avaient pour but de raviver et de renforcer la culture basque à travers des parties de pelote, de rebot, des concours agricoles et divers divertissements destinés à rassembler les populations
+Je me suis intéressée aux fêtes organisées par Antoine d'Abbadie (1810-1897), érudit basque, entre le milieu du XIXe et le début du XXe siècle. Ces fêtes avaient pour but de raviver et de renforcer la culture basque à travers des parties de pelote, de rebot, des concours agricoles et divers divertissements destinés à rassembler les populations
 
 Je me suis particulièrement penchée sur les concours de poésie et de bertsolarisme qu'il a organisés.
 
