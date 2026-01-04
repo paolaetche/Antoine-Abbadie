@@ -3,19 +3,19 @@
 
 Ceci est un projet dans le cadre d'un cours en humanités numériques. 
 
-Je me suis intéréssée au fêtes organisées par Antoine d'Abbadie, érudit basque, entre le milieu et le début du XXe siècle.
-Ces fêtes avaient pour but de raviver et renforcer la culture basque, des parties de pelotes, de rebot, des concours agricoles et des divertissements divers afin de rassembler les populations. 
+Je me suis intéressée aux fêtes organisées par Antoine d'Abbadie, érudit basque, entre le milieu du XIXe et le début du XXe siècle. Ces fêtes avaient pour but de raviver et de renforcer la culture basque à travers des parties de pelote, de rebot, des concours agricoles et divers divertissements destinés à rassembler les populations
 
-Je me suis particulièrement intérésée au concours de poésie et de bertsolarisme qu'il organisa. 
+Je me suis particulièrement penchée sur les concours de poésie et de bertsolarisme qu'il a organisés.
 
-A partir de ce site : https://www.susa-literatura.eus/emailuak/abbadia/ 
+A partir des données ce site, https://www.susa-literatura.eus/emailuak/abbadia/, et de mes propres recherches, j'ai produit trois visulisations : 
 
-J'ai donc produit trois choses : 
-- Une carte qui recense les poètes et improvisateurs des fêtes d'Abbadie entre 1851 et 1897
-- Un réseau qui montre quel poètes à participer à quel fêtes
-- Un graph pour observer les participations entre 1851 et 1897
+- Une carte recensant les poètes et improvisateurs des fêtes d'Abbadie entre 1851 et 1897.
+- Un graphe de réseau illustrant la participation des poètes aux différentes éditions.
+- Un graphique pour observer l'évolution des participations entre 1851 et 1897.
 
 Milesker 
+
+
 
 
 
