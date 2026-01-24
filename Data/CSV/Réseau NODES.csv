@@ -1,0 +1,211 @@
+id;Label;Poids;Role
+0;Urrugne - 1851;1;Ville
+1;Urrugne - 1852;1;Ville
+2;Urrugne - 1853;1;Ville
+3;Urrugne - 1854;1;Ville
+4;Urrugne - 1855;1;Ville
+5;Urrugne - 1856;1;Ville
+6;Urrugne - 1857;1;Ville
+7;Urrugne - 1858;1;Ville
+8;Urrugne - 1859;1;Ville
+9;Urrugne - 1860;1;Ville
+10;Urrugne - 1862;1;Ville
+11;Urrugne - 1863;1;Ville
+12;Sare - 1864;1;Ville
+13;Sare - 1865;1;Ville
+14;Sare - 1866;1;Ville
+15;Sare - 1867;1;Ville
+16;Sare - 1868;1;Ville
+17;Sare - 1869;1;Ville
+18;Sare - 1871;1;Ville
+19;Sare - 1872;1;Ville
+20;Sare - 1873;1;Ville
+21;Sare - 1874;1;Ville
+22;Sare - 1875;1;Ville
+23;Sare - 1876;1;Ville
+24;Saint-Palais - 1877;1;Ville
+25;Sare - 1878;1;Ville
+26;Elizondo - 1879;1;Ville
+27;Mauléon - 1880;1;Ville
+28;Irun - 1881;1;Ville
+29;Sare - 1882;1;Ville
+30;Markina  - 1883;1;Ville
+31;Sare - 1884;1;Ville
+32;Sare - 1885;1;Ville
+33;Urnieta - 1886;1;Ville
+34;Ascain - 1887;1;Ville
+35;Cambo-les-bains - 1888;1;Ville
+36;Doneztebe - 1889;1;Ville
+37;Mauleon - 1890;1;Ville
+38;Iurreta - 1891;1;Ville
+39;Saint-Jean-de-Luz - 1892;1;Ville
+40;Azpeitia - 1893;1;Ville
+41;Ustaritz - 1893;1;Ville
+42;Saint-Jean-Pied-de-Port - 1894;1;Ville
+43;Saint-Jean-de-Luz - 1894;1;Ville
+44;Hasparren - 1894;1;Ville
+45;Espelette - 1895;1;Ville
+46;Bera - 1895;1;Ville
+47;Cambo-les-bains – 1896;1;Ville
+48;Mauléon - 1896;1;Ville
+49;Saint-Jean-de-Luz - 1897;1;Ville
+50;Billaro - 1897;1;Ville
+51;Joanes OXALDE (1814-1897);12;Poète
+52; Martin HALSOUET « Ttipi Urruñara » (1793-1855);2;Poète
+53;Bernard CELHABE;1;Poète
+54;Adrien DE SOUHY (1846–1945);2;Poète
+55;Antonio ARZAK (1855–1904);2;Poète
+56;Biktoriano IRAOLA (1841–1919);5;Poète
+57;Bonifacio ETCHEGARAY (1878–1956);2;Poète
+58;Bruno HARDOY (1807–?);1;Poète
+59;Frantzizko LOPEZ ALEN (1886–1910);7;Poète
+60;Gratien ADEMA « Zalduby » (1828–1907);11;Poète
+61;Jean-Baptiste ELISSAMBURU (1828–1891);6;Poète
+62;Jean-Baptiste LARRALDE (1804–1870);7;Poète
+63;Jean-Martin HIRIBARREN « Salataria » (1810–1865);7;Poète
+64;Joanes BERJES (1806–1885);7;Poète
+65;Joanes ETCHETO (1801–1887);9;Poète
+66;Laurent DIHARASSARY (1842–1902);2;Poète
+67;Léon ELISSAMBURU (1816–1861);4;Poète
+68;Mariana HARGAIN (1860–1925);1;Poète
+69;Martin ARRUPE (1823–?);14;Poète
+70;Martin GUILBEAU (1839–1912);4;Poète
+71;Pascot LARROULET (1809–1884);1;Poète
+72;Pello Mari OTANO (1857–1910);1;Poète
+73;Pierre DIBARRART (1838–1919);17;Poète
+74;Salvat LANDARRETXE (1799–1846);1;Poète
+75;Victor ELICAGARAY (1816–?);1;Poète
+76;Xan DARRIGOL (1826–1895);1;Poète
+77;A. RADOY;1;Poète
+78;Alexander MEABE;2;Poète
+79;Antoine CHOPERENA;1;Poète
+80;Arnaud HARAMBOURE;5;Poète
+81;Bernard BORDA;1;Poète
+83;Bethiri SEILHARUX;1;Poète
+84;Betiri OLHONDO;1;Poète
+85;DAGUERRE;1;Poète
+86;DUHALDEBEHERE;2;Poète
+87;Gabriel LAMARQUE;1;Poète
+88;G. HAROSTEGUY;2;Poète
+89;HARRAZPI;1;Poète
+90;Hypolite PIE;1;Poète
+91;Jean HIRIART;1;Poète
+92;Juan Pedro OTANO;1;Poète
+93;Jose DE VERA « Ezkerra »;1;Poète
+94;Juan Ignazio URANGA (1863–1934);3;Poète
+95;Louis ITHURBIDE;1;Poète
+96;M. DARROUPE;1;Poète
+97;M.A. SALABERRI;1;Poète
+98;Migeltxo UALDE;1;Poète
+99;OLHAGARAY;1;Poète
+100;Paul LOUIS;1;Poète
+101;Raimond INZAGARAY « de Saint-Sébastien »;1;Poète
+102;URRUTIGOITY;1;Poète
+103;« Azkonzabal »;1;Poète
+104;« Deux basques »;1;Poète
+105;« Ermittaua »;1;Poète
+106;« Garro »;1;Poète
+107;« Lapurtar bat »;1;Poète
+108;« Mugaritz »;1;Poète
+109;« Pierresteguy »;1;Poète
+110;« Zohiola berri »;1;Poète
+111;Martin EGUIATEGUI;1;Poète
+112;Juan SATRALI;1;Poète
+113;Pierre TOPET « Etchahun » (1786-1862);1;Poète
+114;DUSSAUT;1;Poète
+115;Felipe BORTHIRI;1;Poète
+116; Beñat DORBE (1815-1898);1;Poète
+117;François EYHERABURU;1;Poète
+118;Salvat DAGUERRE;1;Poète
+119;Jean IRIBARNEGARAY « Xetre » (1831-?);3;Poète
+120;M. BALUYAN;1;Poète
+121;Jean DUVOISIN « Gazteluberri » (1810-1891);3;Poète
+122;Bernard E.;1;Poète
+123;ETCHEBARNE;1;Poète
+124;Agustin ETCHEBERRI;10;Poète
+125;Pierre MENDIBIL;1;Poète
+126;DETCHEPARESTOU;1;Poète
+127;Joseph PALASSIE « Cambo »;1;Poète
+128;Piarres MENDI;1;Poète
+129;Pierre HARANEDER;1;Poète
+130; ETCHEBEHERE « Lapurthara »;1;Poète
+131;Dominika HIRIBARREN;1;Poète
+132;L.D. « Indianotegui »;1;Poète
+133;MENDIBOURE « Lapurthara »;1;Poète
+134;Betiri ARBELONDE;1;Poète
+135;« Demarque semea »;2;Poète
+136;Johanes IGUZQUIBELHAR;1;Poète
+137;J. SAUBABER;1;Poète
+138;Marider UTHURRALT;1;Poète
+139;ALZUGARAY « Uztaritzekoa »;1;Poète
+140;DARRICART;1;Poète
+141;BARNEX;1;Poète
+142;Baptiste CURET;2;Poète
+143;DE BERON;1;Poète
+144;ERRECARTE;1;Poète
+145;ERRECARTHARRI;1;Poète
+146;Johan OXANDABARATZ;1;Poète
+147;Frantzisko « Lapihtz » (1832-1905);1;Poète
+148;ETCHEPARE;1;Poète
+149;JAUREGUIZAHAR;1;Poète
+150;LANDEZTOY « Donapaleuko xantrea »;1;Poète
+151; Joseph DAVID (1829-1910);1;Poète
+152;J. MENDIBURU;1;Poète
+153;GOYETCHE;3;Poète
+154;Jean LANDART;1;Poète
+155;Edmond GUIBERT (1847-1872);1;Poète
+156;Gratien DARRICARRERE (1845-1927);1;Poète
+157;M. OYHARCABAL;1;Poète
+158; Michel ETCHEGARAY;1;Poète
+159;Jean ETCHENIC;1;Poète
+160;HARRIET;1;Poète
+161;Joakin IRIZAR (1793-1879);1;Poète
+162;Joseph ANXO;1;Poète
+163;BARGARA;1;Poète
+164;« Mae »;1;Poète
+165;B. CELHAITO;1;Poète
+166;JAUREGUIBERRI;2;Poète
+167;Pierre ETCHEGOYEN;1;Poète
+168;Martin ETCHETO;1;Poète
+169;Dominika GOYHETCHE;1;Poète
+170;Jose Maria IPARRAGIRRE (1820-1881);2;Poète
+171;LAMOTHE;1;Poète
+172;Juan UDANPILOT;1;Poète
+173; Jose Ignazio ARANA (1838-1896);1;Poète
+174;M. CHANGO;1;Poète
+175; P. DUFOURQ;1;Poète
+176;Felipe ARRESE BEITIA;6;Poète
+177;Ramon ARTOLA (1831-1906);3;Poète
+178;M. MAGUREGUI;1;Poète
+179; Valentin ECENARRO;1;Poète
+180;« LLI »;1;Poète
+181;« JGOyA »;1;Poète
+182;Manuel DE IMAZ;1;Poète
+183;Klaudio OTAEGI (1836-1890);3;Poète
+184;Karmelo ETXEGARAI (1865-1926);3;Poète
+185;Martin « Hazpandarra »;1;Poète
+186;« Gaetan »;1;Poète
+187;HARAMBOURE;1;Poète
+188;Manex HARGINAK;1;Poète
+189;Martin OREGIZ;1;Poète
+190;Juan Jose ALKAIN (1829-1895);1;Poète
+191;Joxe AMEZTOI;1;Poète
+192; Jose ARTOLA;3;Poète
+193;Juan Miguel ORKOLAGA;1;Poète
+194; Indalezio SARASKETA;1;Poète
+195;« J.T.D.L »;1;Poète
+196;Bizente ETCHEGARAY;1;Poète
+197;Felipe CASAL OTAEGUI;4;Poète
+198;Gustave BERDEKO;1;Poète
+199;Balbino GARITAONAINDIA;1;Poète
+200;« J.E Azkainen »;1;Poète
+201;Grégoire IRIGOYEN;1;Poète
+202;Pierre ERGUY;1;Poète
+203;Jean ERRAMOUSPE;1;Poète
+204; Manex ETCHEMENDI;1;Poète
+205;Francisco SANTISTEBAN;1;Poète
+206;Pierre DULADEHERE « de Sare »;1;Poète
+207;Laurent DAGUERRE « Bardoztarra »;1;Poète
+208;« Ontzakozale »;1;Poète
+209;« Cuberoutarra »;1;Poète
+210; Inazio HARAMBELTZ « Hazparne »;1;Poète
