@@ -13,6 +13,7 @@ A partir des données ce site, https://www.susa-literatura.eus/emailuak/abbadia/
   https://paolaetche.github.io/Antoine-Abbadie-Carte/ 
 - Un graphe de réseau illustrant la participation des poètes aux différentes éditions.
 - Un graphique pour observer l'évolution des participations entre 1851 et 1897.
+  https://paolaetche.github.io/Antoine-Abbadie-Graph/
 
 Milesker 
 
